@@ -1,0 +1,81 @@
+#James{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    border-style: double;
+}
+body{
+    font-size: 20px;
+    background-image:url(fbfb.jpg);
+    
+}
+#mental{
+    height: 200px;
+    width: 250px;
+}
+p{
+    color: yellow;
+}
+#chart{
+    height: 300px;
+    width: 500px;
+}
+main{
+    background-color: grey;
+    height: 80%;
+    width: 70%;
+    margin: 15px;
+    padding: 10px;
+}
+footer{
+    background-color: grey;
+    margin: 50px;
+    padding: 10px;
+}
+header{
+    background-color: grey;
+}
+#football{
+    height: 200px;
+    width: 300px;
+}
+li{
+    color: yellow;
+}
+#sad{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    border-style: double;
+}
+#sad:hover{
+   width: 100px;
+    height: 100px;
+    rotate: 720deg;
+    transition:
+    width 1s,
+    rotate 1s;
+    
+}
+    
+
+#happy:hover{
+    width: 400px;
+    height: 400px;
+    rotate: 720deg;
+    transition:
+    width 1s,
+    rotate 1s;
+}
+#happy{
+    height: 200px;
+    border-radius: 50%;
+    border-style: double;
+}
+#schedule .times{
+    background-color: gold;
+}
+#schedule .what{
+    background-color: aqua;
+}
+

@@ -1,0 +1,33 @@
+footer{  
+    background-color: beige;
+  }
+  h3{
+      text-transform: uppercase;
+  }
+  body{
+      font-family: Arial;
+      background-image:url("dick.jpg");
+      font-size: 16px;
+      font-style: italic;
+  }
+  p{
+      text-align: right;
+  }
+  header{
+      border-style: solid;
+      background-color: beige;
+  }
+  main{
+      background-color: beige;
+      height: 80%;
+      width: 70%;
+  }
+  .job-info{
+    font-weight: bold;
+    color: maroon
+  }
+  body{
+    color: blue
+  }
+  
+   
