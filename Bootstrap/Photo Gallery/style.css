@@ -48,3 +48,16 @@ a:hover{
     padding: 2em;
     margin-top: 2em;
 }
+img{
+    width: 200px;
+    height: 200px;
+}
+.pic{
+   height: 150px;
+    background-color: blue;
+    margin: 2em;
+    padding: 2em;
+}
+.head{
+    color: blue;
+}
