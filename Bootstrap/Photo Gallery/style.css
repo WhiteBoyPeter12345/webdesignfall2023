@@ -59,5 +59,12 @@ img{
     padding: 2em;
 }
 .head{
-    color: blue;
+    color: black;
+}
+.con{
+    background-color: aquamarine;
+    text-align: center;
+}
+h6{
+    text-align: center;
 }
