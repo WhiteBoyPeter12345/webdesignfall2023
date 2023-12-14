@@ -32,3 +32,26 @@ p{
     text-align: center;
     color: yellow;
 }
+#cool:hover{
+    height: 200px;
+    width: 200px;
+    transition:
+    width 1s,
+    rotate 1s;
+}
+#chart{
+    text-align: center;
+}
+#plcm{
+    background-color: gold;
+    color: black;
+}
+#second{
+    background-color: silver;
+    color: black;
+}
+.title{
+    margin: 1em;
+    padding: 1em;
+    height: 150px;
+}
