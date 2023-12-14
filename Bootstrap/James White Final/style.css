@@ -1,13 +1,13 @@
 header{
     text-align: center;
-    background-color: midnightblue;
+    background-color: black;
     color: yellow;
 }
 body{
-    background-color: lightskyblue;
+    background-color: darkgrey;
 }
 main{
-    background-color: midnightblue;
+    background-color: black;
     color: yellow;
 }
 img{
@@ -15,6 +15,16 @@ img{
     height: 300px;
 }
 footer{
-    background-color: midnightblue;
+    background-color: black;
     color: yellow;
+}
+.rounded-circle{
+    height: 100px;
+    width: 100px;
+}
+.b1{
+    height: 600px;
+}
+p{
+    font-size: 20px;
 }
