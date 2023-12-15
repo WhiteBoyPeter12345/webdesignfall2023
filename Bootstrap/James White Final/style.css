@@ -55,3 +55,15 @@ p{
     padding: 1em;
     height: 150px;
 }
+.winner{
+    width: 500px;
+}
+.Bugha{
+    width: 400px;
+}
+.col-sm:hover{
+    rotate: 360deg;
+    transition:
+    width 1s,
+    rotate 2s;
+}
